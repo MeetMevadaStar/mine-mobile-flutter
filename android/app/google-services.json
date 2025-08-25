@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419394494375",
+    "project_id": "mine-76d88",
+    "storage_bucket": "mine-76d88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419394494375:android:945bacda8d8197bd04a082",
+        "android_client_info": {
+          "package_name": "com.example.mineFlutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHaNkpblRxCxLMeBwuEuA7q2_C4sYA00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
